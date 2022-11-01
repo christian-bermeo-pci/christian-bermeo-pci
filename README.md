@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @christian-bermeo-pci
-- 👀 I’m interested in 3D tech, VR, AR & the Meteaverse
+- 👀 I’m interested in 3D tech, VR, AR & the Metaverse
 - 🌱 I’m currently learning Software Engineering, typescript, three.js, React 
 - 💞️ I’m looking to collaborate on metaverse projects 3D tech with a mix of web3.0
 - 📫 How to reach me by email
